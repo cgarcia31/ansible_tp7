@@ -1,0 +1,3 @@
+IMAGE_NAME: "cgarcia31-webapps"
+PORT: "35000"
+PORT_EXPOSED: "25000"
